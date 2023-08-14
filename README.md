@@ -1,4 +1,4 @@
-# Software 1 - Class Exercise 7
+# Software 1 - Class Exercise 6
 ## Goals
 - Reafactor code to take advantage of "Clean Coding" principles you've learned.
 
